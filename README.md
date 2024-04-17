@@ -1,5 +1,8 @@
-### Hi there 👋
+### Hi there 👋 I'm Renan
 
+- 🌱 I’m currently learning C++
+- 📫 How to reach me: renanabfreire@gmail.com
+  
 <!--
 **renanabfreire/renanabfreire** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
