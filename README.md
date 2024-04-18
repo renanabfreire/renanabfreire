@@ -1,5 +1,6 @@
 ### Hi there 👋 I'm Renan
 
+- 🔭 I’m currently researcher at Lab of Measurements and Instrumentation – LMI
 - 🌱 I’m currently learning C++
 - 📫 How to reach me: renanabfreire@gmail.com
   
